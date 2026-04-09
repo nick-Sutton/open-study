@@ -1,4 +1,5 @@
 # Optimization
+Below are the resources I used to study Optimization with a focus on its application in robotics and planning. I also took the opportunity to practice my Julia programming through so practice problems.
 
 ## Courses
 - [Convex Optimization - Stanford](https://web.stanford.edu/class/ee364a/lectures.html)
