@@ -7,3 +7,4 @@ A collection of my self study materials
 - [Algorithms](https://www.cs.cornell.edu/courses/cs4820/2025sp/)
 - [Topology]()
 - [Manifold]()
+- [Algorithmic Game Theory]()
